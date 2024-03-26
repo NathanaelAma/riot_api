@@ -9,3 +9,6 @@ Qtype TFT added
 ## 0.1.0
 Change singleton classes.
 Add method comments.
+
+## 0.1.1
+Add Legends of Runeterra regions

@@ -11,7 +11,7 @@ If you want League of Legends api package visit here.
 
 Here are what you need to use the Dart SDK:
 
-- Dart 2.19.0 or higher
+- Dart 3 or higher
 
 ## Example
 
